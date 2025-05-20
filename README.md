@@ -61,3 +61,7 @@ Gestionnaire web pour un club de fitness, développé en PHP avec MySQL.
 ## Auteur
 
 - **Ltk-Mxz** : [GitHub](https://github.com/Ltk-Mxz)
+
+## Mockup
+
+![Mockup](mockup.jpeg)
